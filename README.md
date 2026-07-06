@@ -116,8 +116,8 @@ Created a Sentinel Workbook showing:
 - Password Spray Attempts
 - Security Events Timeline
 - Top Targeted Accounts
-- Event Volume
-[Screenshots: Workbook](htt...
+- Event Volume    
+[Documentation: Workbook Screenshots](docs/WorkbookSOCLab.pdf)
 
 ---
 ## Major Troubleshooting
@@ -228,7 +228,7 @@ Windows Server → AMA → DCR → Log Analytics Workspace → Microsoft Sentine
 
 Missing a single component prevents telemetry from reaching Sentinel.
 
-[Screenshots](htt...
+[Documentation: Screenshots](docs/SOCDetectionLab.pdf)
 
 ---
 ## Future Improvements
