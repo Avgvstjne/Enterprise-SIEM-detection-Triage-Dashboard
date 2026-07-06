@@ -223,7 +223,7 @@ This project provided practical experience with:
 - Incident investigation
 - Workbook creation
 
-One of the biggest lessons re-enforced here is understanding that successful data collection depends on the complete telemetry pipeline:
+One of the biggest lessons reinforced here is understanding that successful data collection depends on the complete telemetry pipeline:
 Windows Server → AMA → DCR → Log Analytics Workspace → Microsoft Sentinel
 
 Missing a single component prevents telemetry from reaching Sentinel.
